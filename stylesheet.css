@@ -1,2 +1,4 @@
 .age{font-style:italic;
 color:darkgrey;}
+#nav { display:flex; 
+justify-content: space-between;}
